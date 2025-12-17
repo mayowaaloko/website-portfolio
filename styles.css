@@ -1,0 +1,27 @@
+* {
+    line-height: 1.6;
+}
+
+.circlethrough-effect {
+  margin: 3rem auto;
+  border: 2px solid;
+  border-radius: 50%;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: hsl(166, 100%, 75%);
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: hsl(160, 100%, 75%);
+}
+
+a:active {
+    color: rgb(205, 135, 50);
+}
